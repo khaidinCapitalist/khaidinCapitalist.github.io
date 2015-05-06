@@ -9,7 +9,7 @@ var bio = {
 		"location" : "Malaysia - Kuala Lumpur"
 	},
 	"welcomeMessage" : "hi guys! im learning at udacity and excited to do more!",	
-	"skills" : ["awesomenes", "programming", "teaching", "teaxaaching", "awesomenes", "programming", "teaching", "teaxaaching", "gaming"
+	"skills" : ["awesomenes", "programming", "teaching", "JQuery", "HTML", "CSS", "Responsive Site"
 	],
 	"bioPic" : "images/khai.jpg"
 }
@@ -57,11 +57,11 @@ var work = {
 		"description" : "A security officer (or security guard) is a person who is paid to protect property, assets, or people. They are usually privately and formally employed civilian personnel. Security officers are generally uniformed and act to protect property by maintaining a high-visibility presence to deter illegal and inappropriate actions, observing (either directly, through patrols, or by watching alarm systems or video cameras) for signs of crime, fire or disorder; then taking action and reporting any incidents to their client and emergency services as appropriate.A security officer (or security guard) is a person who is paid to protect property, assets, or people. They are usually privately and formally employed civilian personnel. Security officers are generally uniformed and act to protect property by maintaining a high-visibility presence to deter illegal and inappropriate actions, observing (either directly, through patrols, or by watching alarm systems or video cameras) for signs of crime, fire or disorder; then taking action and reporting any incidents to their client and emergency services as appropriate."
 	},
 	{
-		"employer" : "KD WEBS",
-		"title" : "Founder and CEO",
+		"employer" : "Diang Rendang SDN BHD",
+		"title" : "Products/Stock Associates",
 		"location" : "Selangor",
 		"dates" : "2013-2014",
-		"description" : "A chief executive officer (CEO) (US phenomenon) or managing director (MD) (British phenomenon) describes the position of the most senior corporate officer (executive) or administrator in charge of managing a for-profit organization. The CEO of a corporation or company typically reports to the board of directors and is charged with maximizing the value of the entity. Titles also often given to the holder of the CEO position include president and chief executive (CE). Managing the whole operation for KDWEBS"
+		"description" : "Products Associates are responsible for keeping stock organized and on store shelves. Products Associates generally work during off-peak shopping hours to execute pricing, re-organizing, and display set up. Our commitment to providing an excellent store atmosphere helps us deliver a great customer experience and sets us apart from our competition."
 	}
 	]
 }
@@ -90,14 +90,14 @@ for (job in work.jobs) {
 var projects = {
 	"projects": [
 	{
-		"title" : "Project 1",
-		"description" : "its about css and html",
+		"title" : "Project 1 : Building Online Portfolio",
+		"description" : "I was provided with a design mockup as a PDF-file and must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete throughout the course of the Front-End Web Developer Nanodegree.",
 		"dates" : 2015,
 		"images" : ["images/197x148.gif","images/197x148.gif","images/197x148.gif","images/197x148.gif"]
 	},
 	{
-		"title" : "Project 2",
-		"description" : "its about Javascript and JQuery",
+		"title" : "Project 2 : Building Online Interactive Resume",
+		"description" : "i were give chance to demonstrate my mastery of the language's(Javascript) syntax through a series of challenges. Each multipart problem mimics a real-life challenge that front-end developers face. You'll be required to write clean code and to apply your knowledge of variables, objects, JSON, functions and control flow to successfully solve the challenges.",
 		"dates" : 2015,
 		"images" : ["images/197x148.gif","images/197x148.gif","images/197x148.gif","images/197x148.gif"]
 	}
